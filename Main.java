@@ -57,6 +57,7 @@ class Main {
           System.out.println( "max=" + max);
           System.out.println( "min=" + min);
           System.out.println( " ");
+          
     }
        static String dostusk6(int[] myArr) {
         int left = 0;
